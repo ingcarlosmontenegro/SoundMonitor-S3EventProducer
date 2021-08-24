@@ -1,14 +1,10 @@
 [
     {
-        "bucketName": "soundmonitor-records",
-        "topicName": "data_upload_event"
-    },
-    {
-        "bucketName": "soundmonitor-audiodata",
+        "bucketName": "soundmonitor-audiodata-montenegro",
         "topicName": "audio_upload_event"
     },
     {
-        "bucketName": "soundmonitor-visualdata",
+        "bucketName": "soundmonitor-visualdata-montenegro",
         "topicName": "visual_upload_event"
     }
 ]
